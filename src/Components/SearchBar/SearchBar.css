@@ -1,0 +1,24 @@
+.form-container {
+  background-color: #0e918c;
+  color: #16213e;
+}
+.form-container label {
+  font-size: 14px;
+  font-weight: 600;
+}
+.search-btn {
+  padding: 8px 30px;
+  border-radius: 30px;
+  border: none;
+  font-size: 18px;
+  background-color: red;
+  color: #eee3e7;
+}
+.search-btn:active,
+.search-btn:focus {
+  border: none;
+  outline: none;
+}
+.search-btn:hover {
+  background-color: rgb(160, 0, 0);
+}

@@ -1,0 +1,10 @@
+.seat-container ul li p {
+  cursor: pointer;
+  color: #b2b2b2;
+}
+.seat-container ul li p:hover {
+  color: #7bc043;
+}
+.selected-items {
+  color: #7bc043;
+}
